@@ -1,1 +1,3 @@
-My Name is Vaibhav Dwivedi, from Bits Pilani, Pilani campus. I have done task1 and task3.
+Greeting!
+
+I am Vaibhav and in the internship of starttech academy. I have done Problem_statement_1 and Problem_statement_3
